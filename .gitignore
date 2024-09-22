@@ -1,0 +1,7 @@
+# Ignora la cartella dell'ambiente virtuale
+myenv/
+
+# Ignora file di grandi dimensioni come DLL
+*.dll
+*.dylib
+*.exe
